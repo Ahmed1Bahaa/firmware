@@ -66,6 +66,8 @@ on:
           - "Awok-Touch"
           - "WaveSentry-R1"
           - "LAUNCHER_WaveSentry-R1"
+          - "esp32-tft-128x160"
+        
 
 jobs:
   compile_selected:
